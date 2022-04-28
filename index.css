@@ -1,0 +1,17 @@
+  body {
+      margin-top: 10em;
+  }
+  .container{
+    background-color: rgb(243, 238, 231);
+    padding: 10px 10px 50px 10px;
+    border-radius: 20%;
+  }
+.card {
+  background: radial-gradient(#bea668, #81abf3);
+  background-repeat: no-repeat;
+  box-shadow: rgb(20, 61, 105) 0px 0px 80px;
+
+}
+  #results {
+         display: inline-block;
+       } 
